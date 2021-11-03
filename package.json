@@ -4,7 +4,7 @@
   "description": "Exemplo de HTML",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mplima08/introHTMLtis2/issues"
   },
-  "homepage": "https://github.com/mplima08/introHTMLtis2#readme"
+  "homepage": "https://github.com/mplima08/introHTMLtis2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
