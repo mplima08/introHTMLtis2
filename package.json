@@ -1,0 +1,19 @@
+{
+  "name": "introhtmltis2",
+  "version": "1.0.0",
+  "description": "Exemplo de HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mplima08/introHTMLtis2.git"
+  },
+  "author": "Miguel Pimentel Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mplima08/introHTMLtis2/issues"
+  },
+  "homepage": "https://github.com/mplima08/introHTMLtis2#readme"
+}
